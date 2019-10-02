@@ -121,6 +121,16 @@ Download the pretrained models [checkpoint_d](https://drive.google.com/open?id=1
 ` python beamsearch.py cd target_image_path distractor_image_path `
 
 <!-- ## Files and Folders  -->
+## Authors
+
+* **Saiteja Talluri** - [saiteja-talluri](https://github.com/saiteja-talluri)
+* Suraj Soni
+* Jagadeep Sai
+
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 ## References 
 1. Paper: [Context-aware Captions from Context-agnostic Supervision](https://arxiv.org/pdf/1701.02870.pdf)
